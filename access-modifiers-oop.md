@@ -1,4 +1,4 @@
-Access Modifiers in TypeScript OOP
+## Access Modifiers in TypeScript OOP
 
 ## Introduction
 
