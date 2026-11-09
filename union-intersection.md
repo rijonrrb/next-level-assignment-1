@@ -1,4 +1,4 @@
-Combining Union and Intersection Types
+## Combining Union and Intersection Types
 
 ## Introduction
 
